@@ -3,7 +3,7 @@
 Hello! I'm an enthusiastic **Artificial Intelligence & Data Science undergraduate** with a strong passion for technology, innovation, and problem-solving. I enjoy building practical solutions by combining AI concepts, software development, automation, and emerging technologies to solve real-world challenges.
 
 💼 **Current Experience**
-🔹 AI Tool Developer Intern at ZF Group – Working on intelligent systems and industry-focused AI solutions while gaining hands-on experience in modern development practices.
+🔹 AI Tool Developer Intern at PASS group (IITM ICUBATION CELL) – Working on intelligent systems and industry-focused AI solutions while gaining hands-on experience in modern development practices.
 
 🔹 Former Web Development Intern at Drobospace X Automation Pvt. Ltd. – A Robotics R&D company where I enhanced my frontend and backend development skills through real-world projects.
 
